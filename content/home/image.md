@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 1
 
 title:
 subtitle:
@@ -18,14 +18,17 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: coders.jpg
-    image_darken: 0
+    image: chips1.JPG
+    image_darken: 0.8
     image_parallax: false
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ["80px", "0", "100px", "0"]
 advanced:
-  css_class: fullscreen
+  css_class:
 ---
+
+# **<p>Forest Change Analysis Lab</p>**
+<p>Data science for forest ecology and management</p>
