@@ -6,8 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  #theme: minimal
+  #theme: minimal
+  theme_day: tof
+  #theme_night: coffee
   font: native
   font_size: L
 
