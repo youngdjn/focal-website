@@ -6,18 +6,14 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+title: 
+hero_media: flagged-seedlings.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
   css_style:
-  css_class:
+  css_class: 
 ---
 
-<br>
-
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+<p>The FOCAL Lab works at the intersection of forest disturbance ecology and data science. We collect and analyze data to inform forest management in an era of climate change, drought, and large high-severity wildfires. We rely as much on large geospatial datasets as on field-based measurements of forests. We work closely with forest managers in an effort to address pressing forest management needs.</p>

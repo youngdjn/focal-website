@@ -31,4 +31,4 @@ advanced:
 ---
 
 # **<p>Forest Change Analysis Lab</p>**
-<p>Data science for forest ecology and management</p>
+<p>Forest disturbance ecology &nbsp; | &nbsp; Forest management &nbsp; | &nbsp; Data science</p>
