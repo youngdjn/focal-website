@@ -6,10 +6,8 @@
 # Appearance
 
 appearance:
-  #theme: minimal
-  #theme: minimal
   theme_day: tof
-  #theme_night: coffee
+  theme_night: tof
   font: focfnt
   font_size: L
 
@@ -38,7 +36,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: false
+    show_search: true
     highlight_active_link: true
 
 # Site footer

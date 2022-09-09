@@ -1,0 +1,10 @@
+.round > * img{
+    border-radius: 50%;
+    width:350px;
+    height:350px;
+    object-fit: cover;
+    object-position: 90% 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
