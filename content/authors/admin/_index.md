@@ -37,7 +37,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - PI
+  - Alumni
 highlight_name: false
 ---
 
