@@ -1,6 +1,11 @@
 ---
 title: Nina Venuti
 role: Master's Student
+
+organizations:
+  - name: Ecology Graduate Group
+    url: https://ecology.ucdavis.edu/
+
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

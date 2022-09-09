@@ -1,6 +1,11 @@
 ---
 title: Claire Tortorelli
 role: Postdoc
+
+organizations:
+  - name: Department of Plant Sciences
+    url: https://www.plantsciences.ucdavis.edu/
+
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

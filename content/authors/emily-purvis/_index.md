@@ -1,6 +1,11 @@
 ---
 title: Emily Purvis
 role: PhD Student
+
+organizations:
+  - name: Ecology Graduate Group
+    url: https://ecology.ucdavis.edu/
+
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
