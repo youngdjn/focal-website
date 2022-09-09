@@ -20,9 +20,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-organizations:
-  - name: Stanford University
-    url: ""
+# organizations:
+#   - name: Stanford University
+#     url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence

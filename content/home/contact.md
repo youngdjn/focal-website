@@ -10,7 +10,7 @@ headless: true
 weight: 1000
 
 title: Contact
-subtitle: 'for lab PI Derek Young'
+# subtitle: 'for lab PI Derek Young'
 
 content:
   # Contact (edit or remove options as required)

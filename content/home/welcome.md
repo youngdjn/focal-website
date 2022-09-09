@@ -20,11 +20,11 @@ design:
   <div class="row justify-content-center align-items-center">
     <div class="col-lg-6 align-center py-4">
 
-The Forest Change Analysis Lab (FOCAL) at the [University of California Davis](http://www.ucdavis.edu) works at the intersection of disturbance ecology and data science. We collect and analyze data to inform forest management in an era of climate change, drought, and large high-severity wildfires. We rely as much on large geospatial datasets as on field-based measurements of forests. We work closely with forest managers in an effort to address pressing forest management needs.
+The Forest Change Analysis Lab (FOCAL) at the [University of California, Davis](http://www.ucdavis.edu) works at the intersection of disturbance ecology and data science. We collect and analyze data to inform forest management in an era of climate change, drought, and large high-severity wildfires. We rely as much on large geospatial datasets as on field-based measurements of forests. We work closely with forest managers in an effort to address pressing forest management needs.
 
   </div>
 
-  <div class="col-lg-auto  align-items-center align-content-center">
+  <div class="col-sm-auto  align-items-center align-content-center">
 
 {{< figure src="flagged-seedlings.jpg" class="round" >}}
 

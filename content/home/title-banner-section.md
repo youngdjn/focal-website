@@ -30,5 +30,13 @@ advanced:
   css_class:
 ---
 
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-xl-10">
+
 # **<p>Forest Change Analysis Lab</p>**
 <p>Disturbance ecology &nbsp; | &nbsp; Forest management &nbsp; | &nbsp; Data science</p>
+
+
+  </div>
+</div>
