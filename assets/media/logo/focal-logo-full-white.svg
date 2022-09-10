@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="151.97729mm"
+   height="38.287201mm"
+   viewBox="0 0 151.97729 38.287201"
+   version="1.1"
+   id="svg2855"
+   sodipodi:docname="focal-logo-full-white.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2857"
+     pagecolor="#6e6e6e"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.6972855"
+     inkscape:cx="166.3594"
+     inkscape:cy="268.8999"
+     inkscape:window-width="1512"
+     inkscape:window-height="859"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2852" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.885776,-11.84865)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:Kokonor;-inkscape-font-specification:Kokonor;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1"
+       x="26.458176"
+       y="49.12785"
+       id="text425-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan423-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         x="26.458176"
+         y="49.12785">F   CAL</tspan></text>
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.817;stroke-dasharray:none;stroke-opacity:1"
+       id="path550-5-3-2-2"
+       cx="73.637756"
+       cy="30.977673"
+       r="15.184669" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#fefefe;stroke-width:2.88001;stroke-dasharray:none;stroke-opacity:1"
+       id="path4311-5-0-5-9"
+       cx="73.710144"
+       cy="31.157635"
+       r="10.035922" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.41519;stroke-dasharray:none;stroke-opacity:1"
+       id="path6205-2-2-2"
+       cx="72.99234"
+       cy="32.142452"
+       r="8.7682219" />
+  </g>
+</svg>
