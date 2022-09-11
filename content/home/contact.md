@@ -16,7 +16,6 @@ content:
   # Contact (edit or remove options as required)
 
   email: djyoung@ucdavis.edu
-  phone: +1 530-430-7715
   address:
     street: Derek Young, Department of Plant Sciences, UC Davis
     city: Davis
