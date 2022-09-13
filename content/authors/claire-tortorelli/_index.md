@@ -24,6 +24,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/cmtortorelli
+  - display:
+      header: false
+    link: https://cmtortorelli.github.io/Claire-Tortorelli-website/
+    icon_pack: fab
+    icon: github
 organizations:
   - name: Department of Plant Sciences
     url: https://www.plantsciences.ucdavis.edu/
