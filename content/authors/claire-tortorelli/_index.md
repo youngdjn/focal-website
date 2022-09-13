@@ -1,51 +1,44 @@
 ---
 title: Claire Tortorelli
 role: Postdoc
-
-organizations:
-  - name: Department of Plant Sciences
-    url: https://www.plantsciences.ucdavis.edu/
-
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: ct_pic.jpg
+bio: I'm interested in how plants and disturbances interact at community and
+  landscape scales.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Plants
+  - fire
+  - drought
+  - invasive species
+  - community ecology
+  - landscape ecology
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:ctortore[at]ucdavis.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/cmtortorelli
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=wG7r-MEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-# organizations:
-#   - name: Stanford University
-#     url: ""
+    link: https://github.com/cmtortorelli
+organizations:
+  - name: Department of Plant Sciences
+    url: https://www.plantsciences.ucdavis.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - institution: Oregon State University
+      year: 2022
+      course: PhD Forest Ecology
+    - institution: "Colorado State University "
+      year: 2015
+      course: B.S. Forest Biology
 email: ""
 superuser: false
 user_groups:
   - Postdocs
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I use field, remote sensing, and modeling methods to investigate how vegetation responds to and influences disturbances, including drought and wildfire, at community and landscape-scales. I aim to develop co-produced, actionable science to inform management actions and promote balanced and resilient ecosystems. During my PhD at Oregon State University, I worked with managers to better understand the drivers and impacts of a recently introduced invasive annual grass, Ventenata dubia, in Oregon forests and rangelands. Currently, my research is focused on predicting the drivers of fire severity in areas that have experienced multiple fires and understanding long-term forest recovery following severe wildfire.
