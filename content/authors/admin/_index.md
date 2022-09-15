@@ -20,9 +20,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/youngdjn
-# organizations:
-#   - name: Stanford University
-#     url: ""
+organizations:
+  - name: Department of Plant Sciences
+    url: "https://www.plantsciences.ucdavis.edu/"
+  - name: Ecology Graduate Group
+    url: "https://ecology.ucdavis.edu/"
+  - name: Open Forest Observatory
+    url: "https://openforestobservatory.org/"
+
 education:
   courses:
     - course: PhD in Ecology
