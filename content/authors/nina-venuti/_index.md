@@ -33,7 +33,7 @@ organizations:
     url: "https://ecology.ucdavis.edu/"
 education:
   courses:
-    - course: BS in International Studies, minor in Environmental Studies
+    - course: BA in International Studies, minor in Environmental Studies
       institution: University of California San Diego
       year: 2015
 

@@ -18,9 +18,23 @@ banner:
 
 ## Postdocs
 
+Forest fire ecology imagery analysis postdoc
+
+Drone-based forest mapping postdoc
+
+Details coming soon! (check back Oct 1, 2022)
+
 ## Grad students
 
+Effectiveness of forest thinning to achieve stand structure and species composition targets
+
+Details coming soon! (check back Oct 1, 2022)
+
 ## Undergrad students
+
+We are always looking for undergrads to join our research!
+
+Details coming soon! (check back Oct 1, 2022)
 
 ## Field and lab technicians
 
