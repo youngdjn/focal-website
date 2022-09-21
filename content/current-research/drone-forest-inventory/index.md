@@ -34,7 +34,7 @@ gallery_item:
 
 Our tree mapping work directly supports the [<i class="fas fa-arrow-up-right-from-square"></i> Open Forest Observatory](http://openforestobservatory.org).
 
-We are developing an automated workflow for producing high-accuracy, spatially extensive (10-300 ha), species-specific stem maps of forest stands using drone imagery. These maps have many potential applications, including planning post-fire reforestation treatments, develping thinning and prescribed fire prescriptions, and inventorying carbon stock. Our workflow enables mapping of > 300 ha of forest area in only 5 days of a single technician's time (including collection of drone imagery using a single consumer drone and imagery processing). The workflow has several steps:
+We are developing an open-source, automated workflow for producing high-accuracy, spatially extensive (10-300 ha) maps of forest stands at the individual tree level using drone imagery. These maps have many potential applications, including planning post-fire reforestation treatments, develping thinning and prescribed fire prescriptions, and inventorying carbon stocks. Our workflow enables mapping of > 300 ha of forest area in only 5 days of a single technician's time (including collection of drone imagery using a single consumer drone and imagery processing). The workflow has several steps:
 
 ### 1. Image collection and photogrammetry
 

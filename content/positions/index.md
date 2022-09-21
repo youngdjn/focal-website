@@ -1,29 +1,19 @@
 ---
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: false
-
-# Order that this section appears on the page.
-weight: 68
-
 title: Lab position openings
+summary:
 
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
-design:
-  show_interests: false
-  show_role: true
-  show_social: true
+date: 2022-01-01
+show_date: false
+profile: false
+image:
+  focal_point: ''
+  preview_only: true
+  # caption: Automatically detected treetops, with point size indicating tree height, overlaid on drone-derived orthoimagery from the Tahoe National Forest
+
+banner:
+  image: "crew-drone-banner-2.JPG"
+  caption: "test"
+
 ---
 
 ## Postdocs
