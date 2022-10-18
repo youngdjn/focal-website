@@ -22,7 +22,7 @@ banner:
 
 &nbsp;
 
-**Position summary:** Dr. Derek Young (UC Davis FOCAL Lab) and Dr. Phil van Mantgem (USGS Western Ecological Research Center) are recruiting a postdoc with strong data science skills for a project focused on analysis of **high-resolution imagery** (drone, airplane, and satellite) and **plot-based field data** to understand post-fire forest dynamics in areas of recent large wildfires in California. Strong background in scripted (e.g., R-based) geospatial processing and statistical/machine learning analysis of large datasets is required. Optional opportunities exist to incorporate lidar data and computer vision into analyses. The position will integrate with the [Open Forest Observatory](https://openforestobservatory.org/) and other efforts in the FOCAL Lab, including a study of [early post-fire regeneration](/current-research/early-regen/).
+**Position summary:** Dr. Derek Young (UC Davis FOCAL Lab) and Dr. Phil van Mantgem (USGS Western Ecological Research Center) are recruiting a postdoc with strong data science skills for a project focused on analysis of **high-resolution imagery** (drone, airplane, and satellite) and **plot-based field data** to understand post-fire forest dynamics in areas of recent large wildfires in California. Strong background in scripted (e.g., R-based) geospatial processing and statistical/machine learning analysis of large datasets is required. Optional opportunities exist to incorporate lidar data and computer vision into analyses. The position will integrate with the [Open Forest Observatory](https://openforestobservatory.org/) and other efforts in the FOCAL Lab, including a study of [early post-fire dynamics](/current-research/early-regen/).
 
 **Project overview**
 
