@@ -24,11 +24,11 @@ banner:
 
 ## Grad student positions
 
-- Effectiveness of forest thinning to achieve stand structure and species composition targets: Details coming soon! (check back Nov 1, 2022)
+- Effectiveness of forest thinning to achieve stand structure and species composition targets
 
-## Undergrad students
+## Undergrad student positions
 
-- We are always looking for undergrads to join our research! In 2023, we will host a forest ecology drone pilot traineeship program. Check back soon (Nov 1, 2022) for more details on this and other positions in the lab, or [contact us](/#contact)!
+- We are always looking for undergrads to join our research! In 2023, we will host a forest ecology drone pilot traineeship program. For more details on this and other positions in the lab, [contact us](/#contact)!
 
 ## Field and lab staff positions
 
