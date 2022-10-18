@@ -19,7 +19,7 @@ banner:
 
 - [Forest fire ecology & imagery analysis postdoc](/position/fire-imagery/)
 
-- Drone-based forest mapping postdoc: Details coming soon! (check back Nov 1, 2022)
+- Drone-based forest mapping postdoc to support the [Open Forest Observatory](https://openforestobservatory.org/). Details coming soon -- check back in early 2023.
 
 
 ## Grad student positions
