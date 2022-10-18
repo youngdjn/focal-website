@@ -15,27 +15,24 @@ banner:
 
 ---
 
-## Postdocs
+## Postdoc positions
 
-Forest fire ecology imagery analysis postdoc
+- [Forest fire ecology & imagery analysis postdoc](/position/fire-imagery/)
 
-Drone-based forest mapping postdoc
+- Drone-based forest mapping postdoc: Details coming soon! (check back Nov 1, 2022)
 
-Details coming soon! (check back Oct 1, 2022)
 
-## Grad students
+## Grad student positions
 
-Effectiveness of forest thinning to achieve stand structure and species composition targets
-
-Details coming soon! (check back Oct 1, 2022)
+- Effectiveness of forest thinning to achieve stand structure and species composition targets: Details coming soon! (check back Nov 1, 2022)
 
 ## Undergrad students
 
-We are always looking for undergrads to join our research!
+- We are always looking for undergrads to join our research! In 2023, we will host a forest ecology drone pilot traineeship program. Check back soon (Nov 1, 2022) for more details on this and other positions in the lab, or [contact us](/#contact)!
 
-Details coming soon! (check back Oct 1, 2022)
+## Field and lab staff positions
 
-## Field and lab technicians
+- [Forest ecology field & data manager](/position/field-and-data-manager/)
 
 &nbsp;
 &nbsp;

@@ -59,3 +59,5 @@ This project will use traditional Landsat imagery along with newer and alternati
 
 **To apply:** Please combine a cover letter, CV, and contact information for three references into a single PDF and email to Drs. Derek Young, djyoung@ucdavis.edu, and Phil van Mantgem,
 pvanmantgem@usgs.gov. Use the exact subject line “Fire ecology postdoc” (without quotes). For fullest consideration, apply by Tues, November 1, 2022.
+
+<br>
