@@ -32,7 +32,7 @@ banner:
 
 **Compensation:** Approx. $24-28/hour or $54,000-$58,000/year (to be set by HR)
 
-*Please note:* For candidates with a Ph.D., this position may be converted into a postdoc position, with commensurate compensation and additional opportunities for publication. However, the minimum requirement is a bachelor’s degree.
+For candidates with a Ph.D., this position may be converted into a postdoc position, with commensurate compensation and additional opportunities for publication. However, the minimum requirement is a bachelor’s degree.
 
 **Purpose:** Coordinate the collection, management, and initial analysis of field-based and drone-based forest vegetation data to support forest ecology research projects
 
