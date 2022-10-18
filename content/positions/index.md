@@ -12,7 +12,6 @@ image:
 
 banner:
   image: "crew-drone-banner-2.JPG"
-  caption: "test"
 
 ---
 
