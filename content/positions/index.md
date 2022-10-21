@@ -33,6 +33,7 @@ banner:
 ## Field and lab staff positions
 
 - [Forest ecology field & data manager](/position/field-and-data-manager/)
+- [Forest ecology drone pilot (2 openings)](/position/drone-pilot/)
 
 &nbsp;
 &nbsp;
