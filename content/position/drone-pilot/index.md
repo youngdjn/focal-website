@@ -78,12 +78,8 @@ If the Pilot chooses not to be based in/near Davis, they will still be responsib
 - Excellent organizational skills for planning, data management, and equipment management
 - Ability to maintain a positive attitude in physically harsh and/or demanding conditions
 
-## **Application due date**
-
-Application review will begin November 14, 2022, and will continue until the position is filled.
-
 ## **To apply**
 
-Send a cover letter, CV/resume, and contact information for three references (including name, organization, phone, email, and relationship to you) to Dr. Derek Young at djyoung@ucdavis.edu using the following subject line: Forest Ecology Drone Pilot 2023. Please combine all application materials into one PDF for submission.
+Send a cover letter, CV/resume, and contact information for three references (including name, organization, phone, email, and relationship to you) to Dr. Derek Young at djyoung@ucdavis.edu using the following subject line: Forest Ecology Drone Pilot 2023. Please combine all application materials into one PDF for submission. Application review will begin November 14, 2022, and will continue until the position is filled.
 
 <br>
