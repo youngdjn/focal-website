@@ -43,7 +43,7 @@ This project will use traditional Landsat imagery along with newer and alternati
 
 ## **Hours, dates, and work location**
 
-The postdoc position is full time beginning in late 2022. The primary work location is a lab/office setting on the UC Davis campus, but some work can be performed remotely if desired. Funding is available for a minimum of one year, with potential extension for an additional six months or more.
+The postdoc position is full time beginning in early 2023. The primary work location is a lab/office setting on the UC Davis campus, but some work can be performed remotely if desired. Funding is available for a minimum of one year, with potential extension for an additional six months or more.
 
 ## **Compensation**
 
