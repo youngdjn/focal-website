@@ -22,7 +22,7 @@ banner:
 
 &nbsp;
 
-## **Position summary:**
+## **Position summary**
 
 Dr. Derek Young (UC Davis FOCAL Lab) and Dr. Phil van Mantgem (USGS Western Ecological Research Center) are recruiting a postdoc with strong data science skills for a project focused on analysis of **high-resolution imagery** (drone, airplane, and satellite) and **plot-based field data** to understand post-fire forest dynamics in areas of recent large wildfires in California. Strong background in scripted (e.g., R-based) geospatial processing and statistical/machine learning analysis of large datasets is required. Optional opportunities exist to incorporate lidar data and computer vision into analyses. The position will integrate with the [Open Forest Observatory](https://openforestobservatory.org/) and other efforts in the FOCAL Lab, including a study of [early post-fire dynamics](/current-research/early-regen/).
 
@@ -41,7 +41,7 @@ This project will use traditional Landsat imagery along with newer and alternati
 - Present the results at academic and/or land management conference(s) or similar events such as a California Fire Science Consortium webinar
 - Contribute to the broader USGS collaborative project and related research in the FOCAL Lab, with opportunities for co-authorship
 
-## **Hours, dates, and work location:**
+## **Hours, dates, and work location**
 
 The postdoc position is full time beginning in late 2022. The primary work location is a lab/office setting on the UC Davis campus, but some work can be performed remotely if desired. Funding is available for a minimum of one year, with potential extension for an additional six months or more.
 
@@ -49,7 +49,7 @@ The postdoc position is full time beginning in late 2022. The primary work locat
 
 Salary is based on years of experience as a postdoc and ranges from $54,540 to $65,292 annually, with some flexibility to recognize highly relevant skills and experience. The salary table can be found [here](https://www.ucop.edu/academic-personnel-programs/_files/2022/may-2022-postdoc-scales/t23.pdf). The postdoc will be eligible for full benefits.
 
- ## **Minimum qualifications:**
+ ## **Minimum qualifications**
 
 - PhD in ecology, remote sensing, or related field
 - Understanding of and interest in forest ecology and disturbance ecology concepts
@@ -60,13 +60,13 @@ Salary is based on years of experience as a postdoc and ranges from $54,540 to $
 - Experience mentoring diverse undergraduate and/or graduate students
 - Evidence of ability to publish research results in peer-reviewed journals
 
-## **Desired qualifications:**
+## **Desired qualifications**
 
 - Experience studying conifer forests in California or the western U.S.
 - Experience with fire ecology research
 - Experience with machine learning and other advanced data science methods
 
-## **To apply:**
+## **To apply**
 
 Please combine a cover letter, CV, and contact information for three references into a single PDF and email to Drs. Derek Young, djyoung@ucdavis.edu, and Phil van Mantgem,
 pvanmantgem@usgs.gov. Use the exact subject line “Fire ecology postdoc” (without quotes). For fullest consideration, apply by Thurs, November 3, 2022.
