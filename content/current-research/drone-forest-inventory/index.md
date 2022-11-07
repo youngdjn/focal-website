@@ -12,7 +12,7 @@ image:
 
 banner:
   caption: "Emerald Point, Lake Tahoe, USA"
-  image: "tahoe.jpg"
+  image: "tahoe2.jpg"
 
 gallery_item:
 - album: photogrammetry
