@@ -10,7 +10,7 @@ image:
   preview_only: true
 
 banner:
-  image: "tahoe.JPG"
+  image: "tahoe2.jpg"
 
 ---
 
