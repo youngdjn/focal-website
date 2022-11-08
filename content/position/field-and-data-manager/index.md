@@ -24,7 +24,7 @@ banner:
 
 ## **Employment period**
 
-January (or February) - September 2023, with strong possibility of extension if desired
+January or February - September 2023 (minimum), with option for extension through at least December if desired (preferred)
 
 ## **Duty station**
 
@@ -32,7 +32,7 @@ Davis, California (UC Davis campus)
 
 ## **Work location**
 
-Office (65-80%) and field (20-35%). Up to half of office work may optionally be performed remotely. A desktop computer is available if desired.
+Office (65-80%) and field (20-35%). Up to half of office work may optionally be performed remotely, but an in-person component is required. A desktop computer is available if desired.
 
 ## **Time commitment**
 
@@ -40,9 +40,9 @@ Office (65-80%) and field (20-35%). Up to half of office work may optionally be 
 
 ## **Compensation**
 
-Approx. $24-28/hour or $54,000-$58,000/year (to be set by HR)
+For candidates with a bachelor's or master's degree: $27.09/hour
 
-For candidates with a Ph.D., this position may be converted into a postdoc position, with commensurate compensation and additional opportunities for publication. However, the minimum requirement is a bachelor’s degree.
+For candidates with a Ph.D., this position may be converted into a postdoc position, with commensurate compensation (approx. $58,000-$62,000/year) and additional opportunities for analysis and publication.
 
 ## **Purpose**
 
@@ -99,6 +99,6 @@ This position will manage/co-manage several field crews and drone pilots collect
 
 ## **To apply**
 
-Please combine a cover letter, CV, and contact information for three references into a single PDF and email to Dr. Derek Young, djyoung@ucdavis.edu. Use the exact subject line "Field and data manager" (without quotes). For fullest consideration, apply by Friday, November 4, 2022.
+Please combine a statement of interest (including preferred start date), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field and data manager. Application review will begin on November 30 and continue until the position is filled.
 
 <br>
