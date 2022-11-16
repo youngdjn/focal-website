@@ -28,7 +28,7 @@ The preferred start date is January - March 2023, but there is potential to acco
 
 ## **Compensation**
 
-- Applicants with a master’s degree: $56,300 - $63,000 depending on experience
+- Applicants with a master’s degree: $56,300 - $62,000 depending on experience
 - Applicants with a PhD: $63,000 - $72,000 depending on experience
 
 
