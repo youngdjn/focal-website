@@ -94,6 +94,6 @@ This position will manage/co-manage several field technicians collecting data fr
 
 ## **To apply**
 
-Please combine a statement of interest (including preferred start date and preferred time commitment), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field & data manager. Application review will begin on December 9, 2022, and continue until the position is filled.
+Please combine a statement of interest (including preferred start date and preferred time commitment), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field & Data Manager. Application review will begin on December 9, 2022, and continue until the position is filled.
 
 <br>
