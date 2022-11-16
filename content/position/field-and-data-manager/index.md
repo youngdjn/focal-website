@@ -46,7 +46,7 @@ For candidates with a Ph.D., this position may be converted into a postdoc posit
 
 ## **Purpose**
 
-Coordinate the collection, management, and initial analysis of field-based and drone-based forest vegetation data to support forest ecology research projects
+Coordinate the collection, management, and initial analysis of field-based and drone-based forest vegetation data to support forest ecology research projects.
 
 ## **Position summary**
 
