@@ -14,8 +14,6 @@ banner:
 
 ---
 
-&nbsp;
-
 ## **Position summary**
 
 The FOCAL Lab at UC Davis is recruiting a Spatial Data Scientist to contribute to the lab’s work at the intersection of disturbance ecology, forest mapping, and forest management. The Scientist will analyze large geospatial datasets and develop open-source scripted analytical workflows and tools. The majority of the Scientist’s work will support the [Open Forest Observatory](https://openforestobservatory.org/), a new NSF-funded project at the frontier of drone-enabled forest ecology. The OFO is building open-source tools to (a) map forests at the individual-tree level using low-cost drone technology and (b) make the resulting maps publicly available. The Scientist will also lead or co-lead other lab projects, with an initial focus on a collaboration with USGS that aims to understand [fine-scale variation in tree mortality](/current-research/fine-scale-severity/) in areas of recent large wildfires in California by analyzing high-resolution imagery (drone, airplane, and satellite) and plot-based field data.
@@ -34,7 +32,7 @@ The preferred start date is January - March 2023, but there is potential to acco
 
 ## **Primary  duties**
 
-- In collaboration with the supervisor and other OFO collaborators, improve upon existing OFO methodologies (e.g., [1](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13860), [2](https://github.com/open-forest-observatory/automate-metashape), [3](https://github.com/youngdjn/tahoe-forest-structure-drone)) to develop scripted (automated) workflows for processing drone imagery into into individual tree-based forest maps, optionally employing deep learning computer vision models
+- In collaboration with the supervisor and other OFO collaborators, improve upon existing OFO methodologies (e.g., [1](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13860), [2](https://github.com/open-forest-observatory/automate-metashape), [3](https://github.com/youngdjn/tahoe-forest-structure-drone)) to develop scripted (automated) workflows for processing drone imagery into individual tree-based forest maps, optionally employing deep learning computer vision models
 - Calibrate and validate forest mapping workflows by comparing drone-derived forest maps to extensive field-based forest inventory data, including [NEON data](https://www.neonscience.org/)
 - Develop the infrastructure for a searchable index (“metadatabase”) of drone-derived forest maps produced by the OFO and contributors [(prototype)](https://openforestobservatory.org/map-database/)
 - Employ high-performance computing and data storage platforms including [Jetstream2](https://jetstream-cloud.org/) and [CyVerse](https://cyverse.org/) for large analyses and to deploy tools for third-party use
@@ -65,6 +63,6 @@ The preferred start date is January - March 2023, but there is potential to acco
 
 ## **To apply**
 
-Please combine a cover letter (including preferred start date), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu, and Phil van Mantgem, pvanmantgem@usgs.gov. Use the following subject line: Spatial Data Scientist. Application review will begin on December 3, 2022, and will continue until the position is filled.
+Please combine a cover letter (including preferred start date), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu, and Phil van Mantgem, pvanmantgem@usgs.gov. Use the following subject line: Spatial Data Scientist. Application review will begin on December 9, 2022, and will continue until the position is filled.
 
 <br>

@@ -61,8 +61,11 @@ This position will manage/co-manage several field technicians collecting data fr
   - Test and revise field survey methods
   - Perform crew data quality control periodically throughout season
   - Manage crew schedules
-  - Organize and prepare crew gear and vehicles
+  - When necessary, communicate with local forest contacts for access permission
+  - Organize and prepare crew gear; purchase necessary field supplies
   - Serve as emergency contact for crews
+  - Arrange WFA training for crews through UC Davis safety services
+  - Coordinate UC Davis fleet vehicles
   - Coordinate data entry
 - Manage datasets and prepare them for analysis
   - Clean field data (e.g., identify outliers, duplicated or missing plot IDs)
@@ -94,6 +97,6 @@ This position will manage/co-manage several field technicians collecting data fr
 
 ## **To apply**
 
-Please combine a statement of interest (including preferred start date and preferred time commitment), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field & data manager. Application review will begin on December 9 and continue until the position is filled.
+Please combine a statement of interest (including preferred start date and preferred time commitment), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field & data manager. Application review will begin on December 7 and continue until the position is filled.
 
 <br>
