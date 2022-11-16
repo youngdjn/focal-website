@@ -15,25 +15,22 @@ banner:
 
 ---
 
-## Postdoc positions
+## Research staff
 
-- [Forest fire ecology & imagery analysis postdoc](/position/fire-imagery/)
+- [Spatial Data Scientist](/position/spatial-data-scientist/)
+- [Forest Ecology Field & Data Manager](/position/field-and-data-manager/)
 
-- Drone-based forest mapping postdoc to support the [Open Forest Observatory](https://openforestobservatory.org/). Details coming soon -- check back in early 2023.
+## Field staff
 
+- [Forest Ecology Drone Pilot](/position/drone-pilot/)
 
-## Grad student positions
+## Grad students
 
-- Effectiveness of forest thinning to achieve stand structure and species composition targets
+- Check back in July 2023 for grad student openings beginning fall 2024.
 
 ## Undergrad student positions
 
-- We are always looking for undergrads to join our research! In 2023, we will host a forest ecology drone pilot traineeship program. For more details on this and other positions in the lab, [contact us](/#contact)!
-
-## Field and lab staff positions
-
-- [Forest ecology field & data manager](/position/field-and-data-manager/)
-- [Forest ecology drone pilot (2 openings)](/position/drone-pilot/)
+- We are always looking for undergrads to join in our research! In 2023, we will host a forest ecology drone pilot traineeship program. For more details on this and other positions in the lab, [contact us](/#contact)!
 
 &nbsp;
 &nbsp;
