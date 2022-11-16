@@ -1,5 +1,5 @@
 ---
-title: "Position: Forest ecology drone pilot"
+title: "Forest Ecology Drone Pilot"
 summary:
 
 date: 2022-06-01

@@ -1,5 +1,5 @@
 ---
-title: "Position: Forest ecology field & data manager"
+title: "Forest Ecology Field & Data Manager"
 summary:
 
 date: 2022-06-01

@@ -1,5 +1,5 @@
 ---
-title: "Position announcement: Spatial Data Scientist"
+title: "Spatial Data Scientist"
 summary:
 
 date: 2022-06-01
