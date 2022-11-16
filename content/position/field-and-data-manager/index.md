@@ -24,11 +24,11 @@ banner:
 
 ## **Employment period**
 
-January or February - September 2023 (minimum), with option for extension through at least December if desired (preferred)
+January or February - September 2023 (minimum), with option for extension through at least December (preferred)
 
 ## **Duty station**
 
-Davis, California (UC Davis campus)
+Davis, California (UC Davis campus); first 1-2 months may be remote
 
 ## **Work location**
 
@@ -50,17 +50,17 @@ Coordinate the collection, management, and initial analysis of field-based and d
 
 ## **Position summary**
 
-This position will manage/co-manage several field crews and drone pilots collecting data from California mixed-conifer forests, including burned and unburned sites. The position will help to recruit and train field crew members; prioritize data collection sites (based on GIS analysis and field scouting) and direct crews to sites; ensure high standards in data collection, data management, and field safety; and organize collected field data. The position will also assist in compiling and pre-processing datasets in preparation for statistical analysis and may assist with some statistical analysis. The position will also include processing, quality control, and analysis of drone and other aerial imagery using automated workflows. The position will support the following studies: assessment of early (1-2 years) post-fire forest regeneration patterns, assessment of longer-term (~20 years) post-fire forest regeneration, collection and processing of drone imagery from burned and unburned forests for the [Open Forest Observatory](http://openforestobservatory.org), and assessment of large tree densities in unburned Sierra Nevada forests.
+This position will manage/co-manage several field technicians collecting data from California mixed-conifer forests, including burned and unburned sites. In collaboration with the PI, the position will help to recruit and train field crew members; prioritize data collection sites (based on GIS analysis and field scouting) and direct crews to sites; ensure high standards in data collection, data management, and field safety; and organize collected field data. The position will also assist in compiling and processing datasets in preparation for statistical analysis and may assist with some statistical analysis. The position will also include processing, quality control, and analysis of drone and other aerial imagery using automated workflows (with training provided). The position will support the following studies: assessment of early (1-2 years) post-fire forest regeneration patterns, assessment of longer-term (~20 years) post-fire forest regeneration, collection and processing of drone imagery from burned and unburned forests for the [Open Forest Observatory](http://openforestobservatory.org), and assessment of large tree densities in unburned Sierra Nevada forests.
 
 ## **Primary duties**
 
-- Coordinate field data collection
-  - Examine existing data and use GIS to plan survey plot locations and prepare crew maps (in collaboration with PI)
-  - When necessary, independently perform field reconnaissance to confirm selected survey locations are suitable (not each plot, but in general, e.g. to confirm appropriate forest type and accessibility) prior to crew visit
-  - Interview and select field crew members (approx. 3 students and 3 graduates)
-  - Test and revise field survey methods (in collaboration with PI)
-  - Train crew members (in collaboration with PI)
-  - Perform crew data quality control periodically throughout season as necessary
+- Coordinate field data collection (in collaboration with PI)
+  - Examine existing data and use GIS to plan survey plot locations and prepare crew maps
+  - When necessary, independently perform field reconnaissance to confirm selected survey locations are suitable (e.g., accessible and appropriate forest type) prior to crew visit
+  - Interview and select field crew members (approx. 3 students)
+  - Test and revise field survey methods
+  - Train crew members
+  - Perform crew data quality control periodically throughout season
   - Manage crew schedules
   - When necessary, communicate with local forest contacts for access permission
   - Organize and prepare crew gear; purchase necessary field supplies
@@ -93,12 +93,11 @@ This position will manage/co-manage several field crews and drone pilots collect
 
 ## **Desired qualifications**
 
-- Experience collecting and processing drone imagery
 - Experience managing and organizing data in cloud storage such as Google Drive or Box
 - Experience collaborating on code development using a platform such as GitHub
 
 ## **To apply**
 
-Please combine a statement of interest (including preferred start date), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field and data manager. Application review will begin on November 30 and continue until the position is filled.
+Please combine a statement of interest (including preferred start date), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field & data manager. Application review will begin on December 7 and continue until the position is filled.
 
 <br>
