@@ -30,7 +30,7 @@ banner:
 
 ## Undergrad student positions
 
-- We are always looking for undergrads to join in our research! In 2023, we will host a forest ecology drone pilot traineeship program. For more details on this and other positions in the lab, [contact us](/#contact)!
+- We are always looking for UC Davis undergrads to join in our research! In 2023, we will host a forest ecology drone pilot traineeship program for UCD undergrads. For more details on this and other positions in the lab, [contact us](/#contact)!
 
 &nbsp;
 &nbsp;
