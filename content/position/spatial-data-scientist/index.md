@@ -14,6 +14,8 @@ banner:
 
 ---
 
+*Application review began on December 9, 2022. We expect to make an offer to an applicant in the initial pool. However, we can accept additional inquiries or applications in case we return to the applicant pool.*
+
 ## **Position summary**
 
 The FOCAL Lab at UC Davis is recruiting a Spatial Data Scientist to contribute to the lab’s work at the intersection of disturbance ecology, forest mapping, and forest management. The Scientist will develop scripted analytical workflows and tools to analyze large geospatial datasets. The majority of the Scientist’s work will support the [Open Forest Observatory](https://openforestobservatory.org/), a new NSF-funded project on the frontier of drone-enabled forest ecology. The OFO is building open-source tools to (a) map forests at the individual-tree level using low-cost drone technology and (b) make the resulting maps publicly available. The Scientist will also lead or co-lead other data-intensive lab projects, with an initial focus on a collaboration with USGS that aims to understand [fine-scale variation in tree mortality](/current-research/fine-scale-severity/) in areas of recent large wildfires in California by analyzing high-resolution imagery (drone, airplane, and satellite) and plot-based field data.
@@ -63,6 +65,6 @@ The preferred start date is January - March 2023, but there is potential to acco
 
 ## **To apply**
 
-Please combine a cover letter (including preferred start date), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu, and Phil van Mantgem, pvanmantgem@usgs.gov. Use the following subject line: Spatial Data Scientist. Application review will begin on December 9, 2022, and will continue until the position is filled.
+*Application review began on December 9, 2022. We expect to make an offer to an applicant in the initial pool. However, we can accept additional inquiries or applications in case we return to the applicant pool.* Please combine a cover letter (including preferred start date), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu, and Phil van Mantgem, pvanmantgem@usgs.gov. Use the following subject line: Spatial Data Scientist.
 
 <br>

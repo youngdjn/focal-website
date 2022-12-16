@@ -14,6 +14,8 @@ banner:
 
 ---
 
+*Application review began on December 9, 2022. Applicants who applied by that date will be given first consideration, but we can accept additional inquiries/applications in case we do not make an offer to an applicant in the initial pool.*
+
 <div align="center">
 
 *Position in the FOCAL Lab and [Latimer Lab](https://latimer.ucdavis.edu/), UC Davis*
@@ -94,6 +96,8 @@ This position will manage/co-manage several field technicians collecting data fr
 
 ## **To apply**
 
-Please combine a statement of interest (including preferred start date and preferred time commitment), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field & Data Manager. Application review will begin on December 9, 2022, and continue until the position is filled.
+*Application review began on December 9, 2022. Applicants who applied by that date will be given first consideration, but we can accept additional inquiries/applications in case we do not make an offer to an applicant in the initial pool.*
+
+Please combine a statement of interest (including preferred start date and preferred time commitment), CV, and contact information for three references into a single PDF and email to Derek Young, djyoung@ucdavis.edu. Use the following subject line: Field & Data Manager. 
 
 <br>
