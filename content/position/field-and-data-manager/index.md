@@ -24,15 +24,15 @@ banner:
 
 ## **Employment period**
 
-January or February - September 2023 (minimum), with option for extension through at least December (preferred)
+January or February - May 2023 (minimum), with possibility of extension through September or beyond
 
 ## **Duty station**
 
-Davis, California (UC Davis campus); first 1-2 months may be remote
+Davis, California (UC Davis campus); first 1-2 months may be remote, with extended remote work negotiable.
 
 ## **Work location**
 
-Office (65-80%) and field (20-35%). Up to half of office work may optionally be performed remotely, but an in-person component is required. A desktop computer is available if desired.
+Office (65-80%) and field (20-35%).
 
 ## **Time commitment**
 
