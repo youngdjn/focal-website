@@ -24,7 +24,7 @@ banner:
 
 ## Employment period
 
-Mid-June to late September 2023 (minimum), with potential for extension to assist with data processing
+Mid-June to late September 2023 (minimum), with potential for extension for additional fieldwork and/or to assist with data processing
 
  ## Compensation
 
