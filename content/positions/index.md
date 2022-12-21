@@ -23,6 +23,7 @@ banner:
 ## Field staff
 
 - [Forest Ecology Drone Pilot](/position/drone-pilot/)
+ - [Forest Ecology Field Crew Leader](/position/field-crew-leader/)
 
 ## Grad students
 
