@@ -32,7 +32,7 @@ In fall quarter 2023, the trainees will work in the FOCAL lab for 3-8 hours/week
 
 $15.50/hr. Training and FAA exam study time are paid hours. Internship credit can also be arranged.
 
-## Dates:
+## Dates
 
 Fall 2023, summer 2023, spring 2023 (all three terms). Part-time work during the school year and full-time work during the summer.
 
@@ -73,7 +73,7 @@ Outdoor experience is required so that we know you are comfortable in the types 
 
 ## Minimum qualifications
 
-*Note: The minimum qualifications for this position will be adhered to strictly. If you do not meet the minimum qualifications, we are unfortunately unable to consider you for this position. We will offer a similar position next year, so we encourage you to build you qualifications and check back next year.*
+*Note: The minimum qualifications for this position will be adhered to strictly. If you do not meet the minimum qualifications, we are unfortunately unable to consider you for this position. We will offer a similar position next year, so we encourage you to build your qualifications and check back next year.*
 
 - UCD undergraduate student in ecology, natural resource management, or related field
 - Coursework or practical experience in working with quantitative geospatial data, such as a GIS class
@@ -90,4 +90,4 @@ Outdoor experience is required so that we know you are comfortable in the types 
 
 ## **To apply**
 
-Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for three references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/J4hAZ8XRTomq5qDEA). For questions about the position, contact Derek Young, djyoung@udavis.edu.
+Please submit a cover letter (including your interest in the position, relevant experience, and availability dates), CV/resume, and contact information for three references (including name, organization, email, and relationship to you) using [this Google form](https://forms.gle/J4hAZ8XRTomq5qDEA). The form includes more detailed instructions. For questions about the position, contact Derek Young, djyoung@udavis.edu.
