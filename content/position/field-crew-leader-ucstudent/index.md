@@ -1,5 +1,5 @@
 ---
-title: "Field Crew Leader in Forest and Fire Ecology"
+title: "Field Crew Leader in Forest and Fire Ecology (UC Student or spring 2023 UC graduate)"
 summary:
 
 date: 2022-12-21
@@ -24,11 +24,15 @@ banner:
 
 ## Employment period
 
-Late May or early June to late September 2023 (minimum), with potential for extension
+Mid-June to late September 2023 (minimum), with potential for extension
 
  ## Compensation
 
-For candidates with a bachelor’s degree or higher and professional fieldwork experience, approximately $22.39/hour (base rate). The work schedule of 8 10-hour days (followed by 6 days off) will generate overtime hours such that the average hourly rate is expected to be at least $24/hour.
+Approximately $19/hour.
+
+## Eligibility
+
+This position is for current UC students (any UC campus) or fall 2023 UC graduates. If you already have a bachelor's degree and directly relevant professional field experience, consider our [non-student crew lead position](/position/field-crew-leader/).
 
 ## Field location
 
@@ -40,15 +44,15 @@ Davis, CA (UC Davis)
 
  ## Job purpose
  
- Lead a three- or four-member field crew to survey vegetation following wildfires that burned one or two years ago. The crew will establish plots and collect vegetation data in severely- and moderately-burned areas. Most plot surveys will consist of revisits of plots established and surveyed in the previous year. The data will support research aiming to improve predictions of post-fire forest recovery. The work will also include surveys of overstory stand structure in burned and unburned forest to support efforts to use drone and satellite imagery to map forest structure.
+ Lead a three- or four-member field crew in performing plot surveys to collect forest vegetation data from burned and unburned forest sites. Most plot surveys will consist of revisits of plots established and surveyed in the previous year. The data will support research aiming to improve predictions of post-fire forest recovery. The work will also include surveys of overstory stand structure in burned and unburned forest to serve as validation data for efforts to use drone and satellite imagery to map forest structure.
 
-**Highlight:** The fieldwork will occur across the Mosquito, Caldor, Creek, and Dixie fires in northern California (Tahoe, Plumas, Lassen, and Sierra National Forests), as well as unburned stands on the Tahoe National Forest, and provide an opportunity to observe a diversity of California mountain landscapes and post-fire conditions.
+The fieldwork will occur across the Mosquito, Caldor, Creek, and Dixie fires in northern California (Tahoe, Plumas, Lassen, and Sierra National Forests), as well as unburned stands on the Tahoe National Forest, and provide an opportunity to observe a diversity of California mountain landscapes and post-fire conditions.
 
 ## Job description
 
 The crew leader is responsible for leading and conducting field sampling. The crew leader will be responsible for the following:
 
-- **Field data collection (75%):** Lead a crew in collecting field data (including data on regenerating vegetation). Perform work alongside the other crew members while ensuring the crew’s work meets high quality standards, correctly follows all protocols, and is conducted efficiently.
+- **Field data collection (75%):** Lead a crew in collecting field data, including data on post-fire regenerating vegetation. Perform work alongside the other crew members while ensuring the crew’s work meets high quality standards, correctly follows all protocols, and is conducted efficiently.
 
 - **Data and equipment management (15%):** Ensure that equipment and data are managed properly (including quality-checking data sheets, uploading photos, and submitting completed data sheets to the supervisor at regular intervals); perform data entry at an office location.
 
@@ -68,7 +72,7 @@ The field crew leader’s work will require some logistical coordination outside
 
 Field campaigns will begin and end at the duty station in Davis, CA.
 
-The crew will be provided with a vehicle. Ability and willingness to contribute to the driving duties will be viewed favorably. Travel to field sites will require highway driving as well as driving on rough, remote, poorly-signed backcountry roads.
+The crew will be provided a vehicle. Ability and willingness to contribute to the driving duties will be viewed favorably. Travel to field sites will require highway driving as well as driving on rough, remote, poorly-signed backcountry roads.
 
 ## Equipment and gear
 
@@ -84,12 +88,12 @@ Crew leader and members must be in very good physical condition. Field condition
 
 ## Minimum qualifications
 
-- Bachelor's degree in ecology, natural resource management, or related natural science field, or a bachelor's degree in any field plus directly relevant professional experience
+- Progress toward a bachelor's degree in ecology, natural resource management, or related natural science field
 - Excellent organizational skills for logistical planning, data management, crew management, and equipment management
 - Ability to take a leadership role and make executive decisions when needed
 - Experience in vegetation data collection
 - Comfort with and ability to maintain a positive attitude in physically demanding and/or uncomfortable conditions (see Work conditions/physical demands, above)
-- Skilled in navigating on- and off-trail using topographic maps, mobile devices, and handheld GPS units
+- Skilled in navigating on- and off-trail using topographic maps, compass, mobile devices, and handheld GPS units
 - Experience camping in remote locations with no facilities
 - CPR and Wilderness First Aid certified (certification may be accomplished after job offer is made, with registration cost paid by the employer)
 

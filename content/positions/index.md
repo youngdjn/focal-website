@@ -18,12 +18,14 @@ banner:
 ## Research staff
 
 - [Spatial Data Scientist](/position/spatial-data-scientist/)
-- [Forest Ecology Field & Data Manager](/position/field-and-data-manager/)
+<!--- [Forest Ecology Field & Data Manager](/position/field-and-data-manager/) --->
 
 ## Field staff
 
 - [Forest Ecology Drone Pilot](/position/drone-pilot/)
- - [Forest Ecology Field Crew Leader](/position/field-crew-leader/)
+- [Forest Ecology Field Crew Leader (non-UC student)](/position/field-crew-leader/)
+- [Forest Ecology Field Crew Leader (UC student)](/position/field-crew-leader-ucstudent/)
+- [Forest Ecology Field Crew Member (UC student)](/position/field-crew-member/)
 
 ## Grad students
 
@@ -31,6 +33,7 @@ banner:
 
 ## Undergrad student positions
 
+- [Drone-based ecology traineeship](/position/drone-ecology-traineeship)
 - We are always looking for UC Davis undergrads to join in our research! In 2023, we will host a forest ecology drone pilot traineeship program for UCD undergrads. For more details on this and other positions in the lab, [contact us](/#contact)!
 
 &nbsp;
