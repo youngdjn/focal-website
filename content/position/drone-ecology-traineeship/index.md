@@ -16,11 +16,13 @@ banner:
 
 ## Overview
 
+These positions are a part of the [Open Forest Observatory](http://www.openforestobservatory.org) project, hosted by the FOCAL Lab at UC Davis.
+
 This is a 9-month paid traineeship position for current UC Davis undergraduate students with an expected graduation date of fall 2023 or later. The position includes training and computer-based research experience during the school year (approx. 3-8 hours/week) and full-time fieldwork during summer 2023. The position begins in early spring quarter 2023, continues through summer 2023, and ends in late fall quarter 2023. There are two positions available.
 
-The trainees will learn skills in using drones for forest ecology research, including field-based skills (drone piloting, ground-based field validation data collection) and computer-based skills (drone imagery processing and analysis).
+The trainees will learn skills in using drones for forest ecology research, including field-based skills (drone piloting, ground-based field validation data collection) and computer-based skills (drone imagery processing and analysis). The trainees will interact and work with Open Forest Observatory scientists.
 
-In spring quarter 2023, the trainees will spend most of their traineeship time (approx. 3-5 hours/week) studying for and taking the exam to receive their FAA Part 107 Remote Pilot Certificate via an online course and mentorship provided by FOCAL Lab PI Derek Young. They will spend a small amount of time assisting in drone data processing and/or field planning tasks under the mentorship of FOCAL lab members.
+In spring quarter 2023, the trainees will spend most of their traineeship time (approx. 3-5 hours/week) studying for and taking the exam to receive their FAA Part 107 Remote Pilot Certificate via a standalone online course and mentorship provided by FOCAL Lab PI Derek Young. They will spend a small amount of time assisting in drone data processing and/or field planning tasks under the mentorship of FOCAL Lab members.
 
 In summer quarter 2023, the trainees will work almost entirely in the field (trips of ~8 days at a time, returning to Davis between each). They will serve as the assistants to two professional drone pilots. Work will involve walking off-trail through the forest to assist with the drone operation as a visual observer. The trainee will also spend some time as the primary pilot under the supervision of the professional drone pilot. The final month of the field season will involve traditional plot surveys to collect ground-based reference data (vegetation inventories) to support drone imagery analyses. Field conditions can be harsh, and trainees must have prior outdoor experience demonstrating their ability to work in these conditions.
 
@@ -28,7 +30,7 @@ In fall quarter 2023, the trainees will work in the FOCAL lab for 3-8 hours/week
 
 ## **Compensation**
 
-$15.50/hr. Internship credit can also be arranged.
+$15.50/hr. Training and FAA exam study time are paid hours. Internship credit can also be arranged.
 
 ## Dates:
 
