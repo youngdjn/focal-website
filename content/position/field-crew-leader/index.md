@@ -24,7 +24,7 @@ banner:
 
 ## Employment period
 
-Late May or early June to late September 2023 (minimum), with potential for extension
+Early June to late September 2023 (minimum), with potential for extension
 
  ## Compensation
 
