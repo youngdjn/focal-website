@@ -106,7 +106,7 @@ Crew leader and members must be in very good physical condition. Field condition
 
 ## Application due date
 
-Review of applications will begin on January 23, 2023.
+Review of applications will begin on January 27, 2023.
 
 ## To apply
 
