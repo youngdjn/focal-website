@@ -32,7 +32,7 @@ Approximately $17.00-17.50/hour.
 
 ## Eligibility
 
-This position is for current UC students (any UC campus) or fall 2023 UC graduates. If you already have a bachelor's degree and directly relevant field experience, consider our [non-student crew lead position](/position/field-crew-leader/).
+This position is for current UC students (any UC campus) or spring 2023 UC graduates. If you already have a bachelor's degree and directly relevant field experience, consider our [non-student crew lead position](/position/field-crew-leader/).
 
 ## Field location
 
