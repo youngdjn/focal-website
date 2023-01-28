@@ -17,12 +17,12 @@ banner:
 
 ## Research staff
 
-- [Spatial Data Scientist](/position/spatial-data-scientist/)
+<!--- - [Spatial Data Scientist](/position/spatial-data-scientist/) --->
 <!--- [Forest Ecology Field & Data Manager](/position/field-and-data-manager/) --->
 
 ## Field staff
 
-- [Forest Ecology Drone Pilot](/position/drone-pilot/)
+<!---- [Forest Ecology Drone Pilot](/position/drone-pilot/) --->
 - [Forest Ecology Field Crew Leader (non-UC student)](/position/field-crew-leader/)
 - [Forest Ecology Field Crew Leader (UC student)](/position/field-crew-leader-ucstudent/)
 - [Forest Ecology Field Crew Member (UC student)](/position/field-crew-member/)
