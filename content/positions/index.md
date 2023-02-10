@@ -23,7 +23,7 @@ banner:
 ## Field staff
 
 <!---- [Forest Ecology Drone Pilot](/position/drone-pilot/) --->
-- [Forest Ecology Field Crew Leader (non-UC student)](/position/field-crew-leader/)
+<!----  - [Forest Ecology Field Crew Leader (non-UC student)](/position/field-crew-leader/) --->
 - [Forest Ecology Field Crew Leader (UC student)](/position/field-crew-leader-ucstudent/)
 - [Forest Ecology Field Crew Member (UC student)](/position/field-crew-member/)
 
