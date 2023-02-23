@@ -18,7 +18,7 @@ draft: true
 
 <div align="center">
 
-*Position in the FOCAL Lab and [Latimer Lab](https://latimer.ucdavis.edu/), UC Davis*
+*This 2023 recruitment has closed.*
 
 </div>
 

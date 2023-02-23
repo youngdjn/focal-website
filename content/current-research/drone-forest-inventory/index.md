@@ -69,7 +69,7 @@ After identifying the locations and sizes of individual trees, the next step is 
 
 ## Call for collaborators <a name="collaborators"></a>
 
-We are keen to collaborate with groups or individuals to develop forest mapping methods and tools. In particular, we are interested incorporating any large (> 0.25 ha) field-based forest inventory plot data for development, testing, and training of our forest mapping workflows. If you are interested in collaborating, [contact us](/#contact) or visit the [<i class="fas fa-arrow-up-right-from-square"></i> Open Forest Observatory](http://openforestobservatory.org) for more details on the effort.
+We are keen to collaborate with groups or individuals to develop forest mapping methods and tools. In particular, we are interested incorporating any large (> 0.25 ha) field-based forest inventory plot data for development, testing, and training of our forest mapping workflows. If you are interested in collaborating, [contact us](/#contact) or visit the [<i class="fas fa-arrow-up-right-from-square"></i> Open Forest Observatory](http://openforestobservatory.org) for  more details on the effort.
 
 
 ## Funding and support
