@@ -19,10 +19,8 @@ content:
     - Principal Investigator
     - Postdocs
     - Grad Students
-    - Undergrad Students
-    - Administration
-    - Visitors
-    - Alumni
+    - Undergrads
+    - Research Staff
 design:
   show_interests: false
   show_role: true
