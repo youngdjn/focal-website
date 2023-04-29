@@ -18,9 +18,10 @@ content:
   user_groups:
     - Principal Investigator
     - Postdocs
+    - Research Staff
     - Grad Students
     - Undergrads
-    - Research Staff
+
 design:
   show_interests: false
   show_role: true

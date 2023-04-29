@@ -1,6 +1,6 @@
 ---
 title: Steven dePaschalis
-role: "Environmental Science & Management Undergraduate "
+role: "Drone Ecology Trainee"
 avatar_filename: asset0007.jpg
 social: []
 superuser: false
