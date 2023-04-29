@@ -1,6 +1,6 @@
 ---
 title: Chris Wong
-role: "Drone Ecology Trainee"
+role: "Postdoc"
 avatar_filename: asset0007.jpg
 social: []
 superuser: false
