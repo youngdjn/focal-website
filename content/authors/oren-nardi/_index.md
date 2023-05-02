@@ -672,6 +672,6 @@ superuser: false
 
 <!--StartFragment-->
 
-Oren is particularly interested in the use of sUAS (small unmanned aerial systems) technology for spatially modeling vegetation. Thus, Oren is dedicated to learning and exploring the many ways in which GIS (geographic information systems) and sUAS technology can be applied to build stronger spatial models of natural landscapes. During the school year, Oren resides in Humboldt County, attending Cal Poly Humboldt, studying environmental science and geospatial science.  
+Oren is particularly interested in the use of sUAS (small unmanned aerial systems) technology for spatially modeling vegetation. Thus, Oren is dedicated to learning and exploring the many ways in which GIS (geographic information systems) and sUAS technology can be applied to build stronger spatial models of natural landscapes. During the school year, Oren resides in Humboldt County, attending Cal Poly Humboldt.
 
 <!--EndFragment-->
