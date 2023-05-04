@@ -1,5 +1,6 @@
 ---
 title: Oren Nardi
+role: Drone Pilot
 avatar_filename: 20210916_182729-1-.jpg
 interests:
   - Forest ecology
