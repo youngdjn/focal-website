@@ -12,6 +12,8 @@ education:
       institution: Cal Poly Humboldt
       year: 2024
 superuser: false
+user_groups:
+  - Research Staff
 ---
 <!--\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
