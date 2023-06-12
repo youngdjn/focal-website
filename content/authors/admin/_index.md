@@ -43,7 +43,7 @@ user_groups:
 highlight_name: false
 ---
 
-Derek is a faculty member of the [Graduate Group in Ecology](https://ecology.ucdavis.edu/) and a research scientist in the [Department of Plant Sciences](https://www.plantsciences.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/). He is the principal investigator of the FOCAL Lab and the director of the [Open Forest Observatory](https://openforestobservatory.org/). He splits his time between UC Davis and [Vibrant Planet](https://www.vibrantplanet.net/), where he works as a data scientist.
+Derek is a faculty member of the [Graduate Group in Ecology](https://ecology.ucdavis.edu/) and a research scientist in the [Department of Plant Sciences](https://www.plantsciences.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/). He is the principal investigator of the FOCAL Lab and the director of the [Open Forest Observatory](https://openforestobservatory.org/).
 
 Derek's research is largely focused on understanding forest recovery from large-scale disturbances like drought and wildfire. In parallel, he is developing methods and tools for using low-cost drone technology to support ecology research. Some of his current projects involve combining drone-based and traditional field-based datasets to understand [post-fire tree seed dispersal](/current-research/dispersal-modeling/) and [early post-fire recovery dynamics](/current-research/early-regen/). Underlying all of Derek's work is the aim to use ecological data and knowledge to improve the efficiency and effectiveness of forest management in a changing world.
 
