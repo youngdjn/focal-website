@@ -29,7 +29,7 @@ banner:
 
 ## Grad students
 
-- Check back in July 2023 for grad student openings beginning fall 2024.
+
 
 ## Undergrad student positions
 
